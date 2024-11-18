@@ -1,4 +1,8 @@
-/* make variables */
+/* make variables */ 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
   --lightgray: #D9D9D9;
   --gray: #9c9c9c;
